@@ -4,32 +4,24 @@ Balloons TD is a pygame game based on Bloons TD Battles
 
 ## Installation
 
-Copy this repository.
+Copy this repository and install pygame
 
 ```bash
-git clone 
+git clone https://github.com/wilson-liao/Balloons-TD.git
 pip install pygame
 ```
 
-## Usage
+Run main.py
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```
+python main.py
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## Usage
+
+## Contributing
+No Thanks
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Mine
