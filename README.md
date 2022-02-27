@@ -19,6 +19,7 @@ python main.py
 
 
 ## Usage
+For personal pleasure
 
 ## Contributing
 No Thanks
